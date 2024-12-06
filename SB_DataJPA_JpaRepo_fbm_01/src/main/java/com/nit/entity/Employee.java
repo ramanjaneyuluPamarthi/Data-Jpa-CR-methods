@@ -14,8 +14,8 @@ public class Employee {
 	}
 
 
-	public Employee(int empId, String empName, Double empSal, String empAddress) {
-		super();
+	public Employee(Integer empId, String empName, Double empSal, String empAddress) {
+		
 		this.empId = empId;
 		this.empName = empName;
 		this.empSal = empSal;
