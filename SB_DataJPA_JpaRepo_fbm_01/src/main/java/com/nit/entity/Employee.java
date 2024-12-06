@@ -4,7 +4,7 @@ import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+//hghjfxhsafdahfdshfdsdhasfdsah
 @Entity
 @Table(name = "EMP_TBL")
 public class Employee {
